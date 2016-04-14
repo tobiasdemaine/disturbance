@@ -1,0 +1,6 @@
+1. flip
+2. swim slow
+3. swim slow open mouth
+4. swim fast
+5. swim fast open mouth
+
